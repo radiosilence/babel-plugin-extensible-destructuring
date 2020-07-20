@@ -21,7 +21,7 @@
     "prepublish": "npm run clean && npm run build"
   },
   "devDependencies": {
-    "babel": "^5.8.5",
+    "babel": "^6.23.0",
     "mocha": "^2.2.5"
   },
   "peerDependencies": {
